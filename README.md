@@ -1,12 +1,47 @@
-# React + Vite
+# Waleed Khattak Portfolio (MERN Technologies) 
+## 👨‍💻 Author Waleed Khattak
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio built using the React Technology, showcasing my skills, Hobbies, and experiences as a Web Developer. It is a clean and responsive personal portfolio built with React.js. It showcases my skills, and professional profile with smooth scolling and a modern UI, perfect for highlighting my work as a front-end developer.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [View Live Portfolio](#) *(replace with your deployed link)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Frontend JavaScript library
+- **Vanilla CSS** – Styling
+- **React Hooksr** – For features
+- **React Icons** – Use icons for social media
+- **Responsive Design** – Mobile and desktop friendly
+
+## 📁 Project Structure
+
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│   └── app.css
+├── package.json
+└── README.md
+
+## 📌 Features
+
+Modern, minimal design
+
+Fully responsive layout
+
+Interactive About & Hibbies showcase
+
+Contact form integration
+
+Smooth Scrolling using React Scrolling
+
+## ⚙️ How to Run Locally
+
+- https://github.com/Waleed-khattak/Waleed-Personal-Portfolio
+- cd waleed-personal-portfolio
+- Install Dependencies (Required) npm install
+- npm start
