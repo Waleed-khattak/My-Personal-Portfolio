@@ -1,0 +1,88 @@
+.about {
+    width: 100%;
+    padding: 30px 20px;
+    padding-bottom: 10px;
+}
+
+.about-content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px 0;
+}
+
+.about-left-content {
+    flex: 1 1 30%;
+    min-width: 200px;
+    margin: 12px 0;
+}
+
+.about-right-content {
+    flex: 2 1 65%;
+    min-width: 300px;
+    margin: 12px 0;
+}
+
+
+.about-content .about-left-content {
+    width: 25%;
+}
+
+.about-content .about-left-content img {
+    width: 85%;
+    height: 85%;
+    border-radius: 12px;
+    object-fit: cover;
+    object-position: center;
+    box-shadow:
+        0 0 0 4px rgba(211, 211, 211, 0.4),
+        0 0 0 8px rgba(211, 211, 211, 0.25),
+        0 0 0 12px rgba(211, 211, 211, 0.2);
+}
+
+.about-content .about-right-content {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.about-content .about-right-content p {
+    font-size: 20px;
+    padding: 20px 0;
+    font-weight: 300;
+    padding-right: 25px;
+    text-align: justify;
+}
+
+.about-content .about-right-content .about-items {
+    width: 70%;
+    margin-left: 16px;
+}
+
+.about-content .about-right-content .about-items ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: square;
+}
+
+.about-content .about-right-content .about-items ul li {
+    flex: 1 1 50%;
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 715px) {
+    .about-content .about-right-content .about-items ul li {
+        flex: 1 1 100%;
+    }
+
+    .about-content .about-right-content p {
+        font-size: 15px;
+    }
+
+}
