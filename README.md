@@ -1,7 +1,7 @@
-# Waleed Khattak Portfolio (MERN Technologies) 
+# Waleed Khattak Portfolio (Internship Pakistan Task#1) 
 ## 👨‍💻 Author Waleed Khattak
 
-Welcome to my personal portfolio built using the React Technology, showcasing my skills, Hobbies, and experiences as a Web Developer. It is a clean and responsive personal portfolio built with React.js. It showcases my skills, and professional profile with smooth scolling and a modern UI, perfect for highlighting my work as a front-end developer.
+Welcome to my personal portfolio built using the React Technology, showcasing my skills, Hobbies, and experiences as a Web Developer. Under Internship Pakistan intrnee this is an my week#1 Task. It is a clean and responsive personal portfolio built with React.js. It showcases my skills, and professional profile with smooth scolling and a modern UI, perfect for highlighting my work as a front-end developer.
 
 ## 🚀 Live Demo
 
