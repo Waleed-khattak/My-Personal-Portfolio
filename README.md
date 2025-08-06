@@ -5,7 +5,7 @@ Welcome to my personal portfolio built using the React Technology, showcasing my
 
 ## 🚀 Live Demo
 
-🌐 [View Live Portfolio](#) *(replace with your deployed link)
+🌐 [https://www.linkedin.com/posts/waleed-khattak_mern-technologies-reactjs-activity-7358923225721880576-PJdg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPCkV8BYxUZN8osx29RtG_vpVi0MtfL2_A](#) 
 
 ## 🛠️ Tech Stack
 
@@ -29,15 +29,11 @@ portfolio/
 
 ## 📌 Features
 
-Modern, minimal design
-
-Fully responsive layout
-
-Interactive About & Hibbies showcase
-
-Contact form integration
-
-Smooth Scrolling using React Scrolling
+- Modern, minimal design
+- Fully responsive layout
+- Interactive About & Hobbies showcase
+- Contact form integration
+- Smooth Scrolling using React Scrolling
 
 ## ⚙️ How to Run Locally
 
